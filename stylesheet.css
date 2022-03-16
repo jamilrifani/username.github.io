@@ -1,0 +1,62 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+li {
+    list-style: none;
+    float: right;
+    padding: 35px 20px;;
+}
+.header {
+    background-color: aquamarine;
+    height: 400px;
+    color: blueviolet;
+}
+
+.header-logo {
+    font-size: xx-small;
+    float: right;
+    padding: 30px 20px;
+}
+
+.header-list {
+    float: left;
+    padding: 33px 20px;
+}
+
+.main {
+    background-color: antiquewhite;
+    height: 900px;
+}
+
+.copy-container h1 {
+    font-size: 140px;
+}
+
+.copy-container h2 {
+    font-size: 60px;
+}
+
+.copy-container span {
+    color:brown;
+}
+
+.contents {
+    height: 500px;
+}
+
+.contents-item {
+    float: left;
+}
+
+.footer {
+    background-color: aqua;
+    height: 270px;
+    padding: 60px;
+}
+
+.footer-list {
+    list-style: none;
+    background-color: black;
+    padding: 30px 40px;
+}
